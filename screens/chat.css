@@ -14,19 +14,19 @@
   
   #chat-screen .status-bar {
     z-index: 2;
-  }
+}
   
   #chat-screen .Header-bar__second {
     top: 10px;
     z-index: 1;
-  }
+}
   
 .chat__time {
     color:white;
     background-color: rgba(0,0,0,0.3);
     padding: 10px;
     border-radius:20px;
-  }
+ }
 
 .main-chat {
     margin-top: 120px;
