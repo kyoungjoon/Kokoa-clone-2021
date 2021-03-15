@@ -6,9 +6,9 @@
 /* Comp */
 @import "comp/status-bar.css";
 @import "comp/nav-bar.css";
-@import "comp/Header-bar.css";
+@import "comp/header-bar.css";
 @import "comp/user-comp.css";
-@import "comp/Header-bar__sm.css";
+@import "comp/header-bar__sm.css";
 @import "comp/header-second.css";
 
 
